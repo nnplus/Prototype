@@ -2,7 +2,7 @@
 
 This is a unity project for prototyping our battle mechincs and UI.
 
-# #Changelog ##
+## Changelog ##
 
 ### Jan-13-2013 ###
 
