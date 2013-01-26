@@ -1,3 +1,6 @@
-#Unity
-Battle Mechanics/Library
-Battle Mechanics/Temp
+#JMonkey
+BasicGame/nbproject/private
+BasicGame/build
+BasicGame/dist
+BasicGame/*.dll
+BasicGame/*.so
